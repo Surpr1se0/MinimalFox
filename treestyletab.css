@@ -10,8 +10,8 @@
 }
 
 *{
-  	font-family: 'Google Sans', 'Open Sans', 'Noto Sans', 'Twemoji Mozilla', 'Twitter Emoji Color', 'Segoe UI Emoji' !important;
-	font-size: 8.5pt !important;  
+	font-family: 'Google Sans', 'Open Sans', 'Noto Sans', 'Twemoji Mozilla', 'Twitter Emoji Color', 'Segoe UI Emoji' !important;
+  font-size: 8.5pt !important;  
 }
 
 tab-item {
@@ -19,7 +19,7 @@ tab-item {
 }
 
 tab-item tab-item-substance {
-	padding: 6px !important;
+	padding: 6.8px !important;
 }
 
 tab-item .background {
